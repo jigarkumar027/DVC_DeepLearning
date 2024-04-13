@@ -7,7 +7,7 @@ setup(
     name="src",
     version="0.0.1",
     author="jigarkumar027",
-    description="A small package for dvc DL pipeline",
+    description="A small package for dvc ml pipeline",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/jigarkumar027/DVC_DeepLearning",
